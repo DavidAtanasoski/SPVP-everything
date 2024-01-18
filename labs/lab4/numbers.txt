@@ -1,0 +1,5 @@
+The book costs 12 dollars.
+In this row there are not any integers
+It's 10 o'clock and 31 minutes.
+The room 11 temperature is 2222 and celsius 1234.
+however here we have only 1 integer
