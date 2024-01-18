@@ -1,2 +1,1 @@
-# SPVP
 # SPVP-everything
